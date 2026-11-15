@@ -2,6 +2,9 @@ Developed By :
 23A81A6101 - Venkata Sai Durga Prakash Arumelli
 23A81A6118 - Varun Kumar Gogada
 
+
+
+
 # RagVerse - AI Document Intelligence Platform
 React (Vite + Tailwind) frontend + Django REST backend. Upload a PDF, then run:
 1. **PDF loading & chunking** (PyMuPDF + RecursiveCharacterTextSplitter)
