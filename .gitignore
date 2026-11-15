@@ -1,0 +1,9 @@
+.env
+db.sqlite3
+__pycache__/
+*.pyc
+venv/
+backend/media/
+backend/vector_indexes/
+node_modules/
+frontend/dist/
